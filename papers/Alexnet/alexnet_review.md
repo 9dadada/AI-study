@@ -1,5 +1,7 @@
 # AlexNet Paper Review
 
+> 논문 원본: [ImageNet Classification with Deep Convolutional Neural Networks (NeurIPS 2012)](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)
+
 ## 1. 논문 개요
 
 <table>
