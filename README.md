@@ -7,7 +7,7 @@ AI 핵심 논문을 읽고 직접 구현하며 공부하는 저장소입니다.
 | 주차 | 논문 | 구현 |
 |------|------|------|
 | 1주차 | AlexNet (2012) - Deep Learning의 시작 | [alexnet-implementation](https://github.com/9dadada/alexnet-implementation) |
-| 2주차 | ResNet (2015) - 잔차 학습 | 예정 |
+| 2주차 | ResNet (2015) - 잔차 학습 | [resnet-implementation](https://github.com/9dadada/resnet-implementation) |
 | 3주차 | Attention Is All You Need (2017) - Transformer | 예정 |
 | 4주차 | BERT (2018) - NLP 파인튜닝 | 예정 |
 | 5주차 | GPT-2 / GPT-3 (2019/2020) - 생성형 AI | 예정 |
