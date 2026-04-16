@@ -1,6 +1,7 @@
 # ResNet Paper Review
 
 > 논문 원본: [Deep Residual Learning for Image Recognition (2015)](https://arxiv.org/abs/1512.03385)
+> <br>
 > 구현 코드: [resnet-implementation](https://github.com/9dadada/resnet-implementation)
 
 ## 왜 이 논문을 선택했는가
