@@ -1,6 +1,6 @@
 # AI Study
 
-AI 핵심 논문을 읽고 직접 구현하며 공부하는 저장소입니다.
+AI 핵심 논문을 읽고 직접 구현하며 공부하는 저장소
 
 ## 논문 구현
 
@@ -17,8 +17,8 @@ AI 핵심 논문을 읽고 직접 구현하며 공부하는 저장소입니다.
 
 ## 논문 리뷰
 
-각 논문의 핵심 정리는 [papers/](papers/) 폴더에서 확인할 수 있습니다.
+각 논문의 핵심 정리는 [papers/](papers/) 
 
 ## Python 연습
 
-기초 문법 연습 코드는 [python_practice/](python_practice/) 폴더에 정리하고 있습니다.
+기초 문법 연습 코드는 [python_practice/](python_practice/)
